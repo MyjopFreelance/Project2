@@ -15,7 +15,7 @@
 - JavaScript
 
 ## Демо
-🔗 (https://github.com/MyjopFreelance/Project2.git)
+🔗 [(https://github.com/MyjopFreelance/Project2.git)](https://myjopfreelance.github.io/Project2/)
 
 ## Про проєкт
 Навчальний проєкт для демонстрації роботи з JavaScript та DOM.
