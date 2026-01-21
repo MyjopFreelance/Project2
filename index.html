@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+  <meta charset="UTF-8">
+  <title>Калькулятор ціни</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Калькулятор ціни продукту</h1>
+    <label>Кількість продуктів:
+      <input type="number" id="quantity" value="1" min="1">
+    </label>
+    <label>Ціна за одиницю:
+      <input type="number" id="price" value="100" min="0">
+    </label>
+    <button id="calculate">Розрахувати</button>
+    <h2>Загальна ціна: <span id="total">0</span> грн</h2>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
