@@ -1,21 +1,21 @@
 # Calculator
 
-Простий веб-калькулятор для базових математичних операцій.
+A simple web calculator for basic math operations.
 
-## Функціонал
-- Додавання
-- Віднімання
-- Множення
-- Ділення
-- Очищення результату
+## Functionality
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Result Clearing
 
-## Технології
+## Technologies
 - HTML
 - CSS
 - JavaScript
 
-## Демо
+## Demo
 🔗 [(https://github.com/MyjopFreelance/Project2.git)](https://myjopfreelance.github.io/Project2/)
 
-## Про проєкт
-Навчальний проєкт для демонстрації роботи з JavaScript та DOM.
+## About the project
+An educational project to demonstrate working with JavaScript and DOM.
